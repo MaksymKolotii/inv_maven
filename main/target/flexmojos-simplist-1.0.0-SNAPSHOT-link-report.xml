@@ -1,0 +1,15 @@
+<report>
+  <scripts>
+    <script name="D:\my\learn_build_tools\maven\idea_mvn\main\src\Main.as" mod="1414670573714" size="532" optimizedsize="336">
+      <def id="Main" />
+      <pre id="flash.display:Sprite" />
+      <dep id="AS3" />
+      <dep id="flash.text:TextField" />
+    </script>
+  </scripts>
+  <external-defs>
+    <ext id="flash.display:Sprite" />
+    <ext id="AS3" />
+    <ext id="flash.text:TextField" />
+  </external-defs>
+</report>
