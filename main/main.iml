@@ -2,7 +2,7 @@
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="main">
     <configurations>
-      <configuration name="main" pure-as="true" main-class="..Main" output-file="flexmojos-simplist-1.0.0-SNAPSHOT.swf" output-folder="$MODULE_DIR$/target">
+      <configuration name="main" main-class="..Main" output-file="flexmojos-simplist-1.0.0-SNAPSHOT.swf" output-folder="$MODULE_DIR$/target">
         <dependencies target-player="14.0">
           <entries>
             <entry library-name="Maven: com.adobe.flex.framework:advancedgrids:swc:4.5.1.21328" library-level="project">
@@ -80,6 +80,9 @@
             <entry library-name="Maven: com.adobe.flexunit:flexunit:swc:4.0-rc-1" library-level="project">
               <dependency linkage="Test" />
             </entry>
+            <entry library-name="Maven: org.osflash:as3-signals:swc:0.8" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
           </entries>
           <sdk name="Flexmojos SDK 4.5.1.21328" />
         </dependencies>
@@ -87,6 +90,7 @@
           <map>
             <entry key="compiler.locale" value="en_US" />
           </map>
+          <option name="additionalConfigFilePath" value="$MODULE_DIR$/../.idea/flexmojos/flexmojos-simplist-org.justinjmoses.flexmojos-introduction.xml" />
         </compiler-options>
         <packaging-air-desktop />
         <packaging-android />
@@ -130,6 +134,7 @@
     <orderEntry type="library" exported="" name="Maven: com.adobe.flex.framework:playerglobal:swc:10.2:4.5.1.21328" level="project" />
     <orderEntry type="library" exported="" name="Maven: com.adobe.flex.framework:playerglobal:rb.swc:4.5.1.21328" level="project" />
     <orderEntry type="library" exported="" name="Maven: com.adobe.flexunit:flexunit:swc:4.0-rc-1" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.osflash:as3-signals:swc:0.8" level="project" />
   </component>
 </module>
 

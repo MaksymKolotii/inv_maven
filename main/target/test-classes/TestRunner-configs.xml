@@ -167,6 +167,9 @@
          <path-element>C:\Users\mkolotii\.m2\repository\com\adobe\flex\framework\textLayout\4.5.1.21328\textLayout-4.5.1.21328.swc</path-element>
       </library-path>
       <library-path>
+         <path-element>C:\Users\mkolotii\.m2\repository\org\osflash\as3-signals\0.8\as3-signals-0.8.swc</path-element>
+      </library-path>
+      <library-path>
          <path-element>C:\Users\mkolotii\.m2\repository\com\adobe\flex\framework\advancedgrids\4.5.1.21328\advancedgrids-4.5.1.21328-en_US.rb.swc</path-element>
       </library-path>
       <library-path>
@@ -503,7 +506,7 @@
       <creator>name</creator>
       -->
       <!-- metadata.date: The creation date to store in the SWF metadata-->
-      <date>30.10.14 17:38</date>
+      <date>31.10.14 10:06</date>
       <!-- metadata.description: The default description to store in the SWF metadata-->
       <!-- metadata.description usage:
       <description>text</description>

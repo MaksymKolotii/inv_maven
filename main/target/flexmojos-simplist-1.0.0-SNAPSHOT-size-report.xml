@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <report>
-  <swf size="999" compressedSize="728">
+  <swf size="14588" compressedSize="6932">
 
     <!-- Header data (SWF attributes, product info, markers, etc.) -->
     <headerData totalSize="432">
@@ -16,13 +16,19 @@
     </headerData>
 
     <!-- Cumulative frame size summary. -->
-    <frames totalSize="567">
-      <frame name="Main" size="567" frame="1"/>
+    <frames totalSize="14156">
+      <frame name="Main" size="14156" frame="1"/>
     </frames>
 
     <!-- Actionscript code and constant data. -->
-    <actionScript totalSize="547">
-      <abc name="Main" size="547" frame="1"/>
+    <actionScript totalSize="14136">
+      <abc name="org/osflash/signals/Signal" size="3190" frame="1"/>
+      <abc name="org/osflash/signals/SignalBinding" size="3177" frame="1"/>
+      <abc name="org/osflash/signals/SignalBindingList" size="2704" frame="1"/>
+      <abc name="org/osflash/signals/ISignalBinding" size="1748" frame="1"/>
+      <abc name="org/osflash/signals/ISignal" size="1405" frame="1"/>
+      <abc name="ClickButton" size="1097" frame="1"/>
+      <abc name="Main" size="815" frame="1"/>
     </actionScript>
 
     <!-- Additional frame tags (symbolClass, exportAssets, showFrame, etc). -->

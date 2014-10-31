@@ -1,15 +1,76 @@
 <report>
   <scripts>
-    <script name="D:\my\learn_build_tools\maven\idea_mvn\main\src\Main.as" mod="1414670573714" size="532" optimizedsize="336">
+    <script name="C:\Users\mkolotii\.m2\repository\org\osflash\as3-signals\0.8\as3-signals-0.8.swc(org.osflash.signals:ISignal)" mod="1308784052000" size="1367" optimizedsize="386">
+      <def id="org.osflash.signals:ISignal" />
+      <pre id="Object" />
+      <dep id="AS3" />
+      <dep id="org.osflash.signals:ISignalBinding" />
+    </script>
+    <script name="C:\Users\mkolotii\.m2\repository\org\osflash\as3-signals\0.8\as3-signals-0.8.swc(org.osflash.signals:ISignalBinding)" mod="1308784052000" size="1703" optimizedsize="386">
+      <def id="org.osflash.signals:ISignalBinding" />
+      <pre id="Object" />
+      <dep id="AS3" />
+    </script>
+    <script name="C:\Users\mkolotii\.m2\repository\org\osflash\as3-signals\0.8\as3-signals-0.8.swc(org.osflash.signals:SignalBindingList)" mod="1308784052000" size="2656" optimizedsize="1423">
+      <def id="org.osflash.signals:SignalBindingList" />
+      <pre id="Object" />
+      <dep id="AS3" />
+      <dep id="org.osflash.signals:ISignalBinding" />
+      <dep id="ArgumentError" />
+    </script>
+    <script name="D:\my\learn_build_tools\maven\idea_mvn\main\src\Main.as" mod="1414742730068" size="800" optimizedsize="541">
       <def id="Main" />
       <pre id="flash.display:Sprite" />
       <dep id="AS3" />
+      <dep id="ClickButton" />
       <dep id="flash.text:TextField" />
+    </script>
+    <script name="C:\Users\mkolotii\.m2\repository\org\osflash\as3-signals\0.8\as3-signals-0.8.swc(org.osflash.signals:Signal)" mod="1308784052000" size="3153" optimizedsize="1764">
+      <def id="org.osflash.signals:Signal" />
+      <pre id="Object" />
+      <pre id="org.osflash.signals:ISignal" />
+      <dep id="flash.errors:IllegalOperationError" />
+      <dep id="org.osflash.signals:SignalBinding" />
+      <dep id="AS3" />
+      <dep id="flash.utils:getQualifiedClassName" />
+      <dep id="org.osflash.signals:SignalBindingList" />
+      <dep id="Class" />
+      <dep id="org.osflash.signals:ISignalBinding" />
+      <dep id="ArgumentError" />
+    </script>
+    <script name="D:\my\learn_build_tools\maven\idea_mvn\main\src\ClickButton.as" mod="1414742716176" size="1075" optimizedsize="725">
+      <def id="ClickButton" />
+      <pre id="flash.display:Sprite" />
+      <dep id="AS3" />
+      <dep id="org.osflash.signals:Signal" />
+      <dep id="flash.display:BitmapData" />
+      <dep id="flash.display:Bitmap" />
+      <dep id="flash.events:MouseEvent" />
+      <dep id="org.osflash.signals:ISignal" />
+      <dep id="flash.text:TextField" />
+    </script>
+    <script name="C:\Users\mkolotii\.m2\repository\org\osflash\as3-signals\0.8\as3-signals-0.8.swc(org.osflash.signals:SignalBinding)" mod="1308784052000" size="3133" optimizedsize="1655">
+      <def id="org.osflash.signals:SignalBinding" />
+      <pre id="org.osflash.signals:ISignalBinding" />
+      <pre id="Object" />
+      <dep id="AS3" />
+      <dep id="Error" />
+      <dep id="ArgumentError" />
+      <dep id="org.osflash.signals:ISignal" />
     </script>
   </scripts>
   <external-defs>
+    <ext id="flash.display:BitmapData" />
+    <ext id="Error" />
+    <ext id="flash.display:Bitmap" />
     <ext id="flash.display:Sprite" />
     <ext id="AS3" />
+    <ext id="flash.events:MouseEvent" />
+    <ext id="flash.utils:getQualifiedClassName" />
+    <ext id="Class" />
+    <ext id="flash.errors:IllegalOperationError" />
+    <ext id="ArgumentError" />
+    <ext id="Object" />
     <ext id="flash.text:TextField" />
   </external-defs>
 </report>

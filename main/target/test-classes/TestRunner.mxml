@@ -6,8 +6,8 @@ java.io.InvalidClassException: org.apache.velocity.runtime.parser.node.ASTproces
 	xmlns:unitestingsupport="org.sonatype.flexmojos.unitestingsupport.*"
 	layout="absolute"
 	initialize="init()" 
-	port="51517" 
-	controlPort="51516" 
+	port="50824" 
+	controlPort="50823" 
 	>
 
 
